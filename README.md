@@ -8,6 +8,14 @@ I build full-stack web apps, backend services, and tooling — with a career spa
 - 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-kottman/)
 - 📫 Find me on GitHub as `@patrick473`
 
+## About Me
+
+- 💼 Software Engineer
+- 🤖 Interested in AI-assisted software engineering
+- 🛠️ Building developer experience tools
+- ☁️ Working with cloud-native Java & Angular
+- 🎤 Occasionally speaking about software and AI
+
 ---
 
 ## 🚀 Highlighted Projects
