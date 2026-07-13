@@ -47,7 +47,7 @@ Based on my public repositories across 52 projects:
 
 ## 📊 GitHub Stats
 
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrick473&show_icons=true&theme=default&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=patrick473&layout=donut&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=patrick473&layout=donut&langs_count=4)
 
 ---
 
