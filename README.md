@@ -1,9 +1,9 @@
 # Hi, I'm Patrick Kottman 👋
 
-Software Engineer at **Sopra Steria / ProRail** based in Utrecht, Netherlands.
+Software Engineer at **MetaFactory** based in Amsterdam, Netherlands.
 I build full-stack web apps, backend services, and tooling — with a career spanning Java, TypeScript, Python, and C#.
 
-- 💼 Software Engineer working at Sopra Steria JTech and ProRail
+- 💼 Software Engineer working at MetaFactory
 - 🌍 Utrecht, Netherlands
 - 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-kottman/)
 - 🤖 Interested in AI-assisted software engineering
